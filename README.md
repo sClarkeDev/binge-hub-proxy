@@ -1,5 +1,7 @@
 # binge-hub-proxy
 
+## NOT USED ##
+
 Simple reverse proxy to bypass CORS, used by BingeHub.
 
 ### features:
