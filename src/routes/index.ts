@@ -1,6 +1,7 @@
 // import { isJwtValid } from '@/utils/auth';
 import { getBodyBuffer } from '@/utils/body';
-import { getProxyHeaders, getAfterResponseHeaders, cleanupHeadersBeforeProxy } from '@/utils/headers';
+import { cleanupHeadersBeforeProxy, getAfterResponseHeaders, getProxyHeaders } from '@/utils/headers';
+
 
 export default defineEventHandler(async (event) => {
   // grab token from url.
