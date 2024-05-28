@@ -1,4 +1,4 @@
-# binge-hub-proxy
+# cors-proxy
 
 ## NOT USED ##
 
