@@ -1,8 +1,8 @@
-# binge-hub-proxy
+# cors-proxy
 
 ## NOT USED ##
 
-Simple reverse proxy to bypass CORS, used by BingeHub.
+Simple reverse proxy to bypass CORS.
 
 ### features:
  - Deployable on many platforms - thanks to nitro
