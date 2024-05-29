@@ -1,5 +1,5 @@
 {
-  "name": "binge-hub-proxy",
+  "name": "cors-proxy",
   "private": true,
   "version": "1.0.0",
   "scripts": {
